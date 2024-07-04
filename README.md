@@ -1,2 +1,2 @@
 # Digital-Communication-Under-Noise
-Testing the affect of noise on encoding and different types of modulation techniques.
+A simulation of a complete digital communication system with different modulation schemes in Python for transmitting and receiving text messages.
